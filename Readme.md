@@ -26,7 +26,7 @@ This will run the application and bind it to **localhost:8080** of host machine.
 [
     {
         "id": "11f0af5f-44e9-4964-afca-17fb1762b6db",
-        "address": "ashish",
+        "address": "bhanupriya",
         "ref_code": "112345691",
         "is_manager_code": "0",
         "created_at": "2025-02-24T18:48:30.530703892",
@@ -41,7 +41,7 @@ This will run the application and bind it to **localhost:8080** of host machine.
 
 **Request Example:**
 ```json
-{"address":"ashish","ref_code":"123456"}
+{"address":"bhanupriya","ref_code":"123456"}
 
 ```
 
@@ -50,7 +50,7 @@ This will run the application and bind it to **localhost:8080** of host machine.
 
 **Request Example:**
 ```json
-{"address":"ashish","ref_code":"123456"}
+{"address":"bhanupriya","ref_code":"123456"}
 
 ```
 
@@ -62,7 +62,7 @@ This will run the application and bind it to **localhost:8080** of host machine.
 [
     {
         "id": "11f0af5f-44e9-4964-afca-17fb1762b6db",
-        "address": "ashish",
+        "address": "bhanupriya",
         "ref_code": "112345691",
         "is_manager_code": "0",
         "created_at": "2025-02-24T18:48:30.530703892",
